@@ -1,0 +1,124 @@
+a.my-class {
+    color: #333333;
+}
+
+    a.my-class:active {
+        color: #666666;
+    }
+
+    a.my-class:link {
+        color: #999999;
+    }
+
+    a.my-class:visited {
+        color: #CCCCCC;
+    }
+
+header nav ul li a {
+    color: #FFF;
+    font-size: 14px;
+    transition: color 0.2s ease-in 0s;
+    text-decoration: none !important;
+}
+
+.para {
+    color: rgb(243, 77, 86);
+    font-weight: bold;
+}
+
+.container::before, .container::after {
+}
+
+.container::before, .container::after {
+    text-decoration: none;
+}
+
+.container::before, .container::after {
+    text-decoration: none;
+}
+
+.container::before, .container::after {
+    text-decoration: none;
+}
+
+*, *::before, *::after {
+    text-decoration: none;
+}
+
+    *, *::before, *::after {
+        text-decoration: none;
+    }
+
+        *, *::before, *::after {
+            text-decoration: none;
+        }
+
+            *, *::before, *::after {
+                text-decoration: none;
+            }
+
+                *, *::before, *::after {
+                }
+
+                    *, *::before, *::after {
+                    }
+
+.container::after {
+}
+
+.container::before, .container::after {
+    text-decoration: none;
+}
+
+.container::after {
+}
+
+.container::before, .container::after {
+    text-decoration: none;
+}
+
+.container::after {
+}
+
+.container::before, .container::after {
+    text-decoration: none;
+}
+
+.container::after {
+}
+
+.container::before, .container::after {
+    text-decoration: none;
+}
+
+*, *::before, *::after {
+    text-decoration: none;
+}
+
+    *, *::before, *::after {
+        text-decoration: none;
+    }
+
+        *, *::before, *::after {
+            text-decoration: none;
+        }
+
+            *, *::before, *::after {
+                text-decoration: none;
+            }
+
+                *, *::before, *::after {
+                    text-decoration: none;
+                }
+
+                    *, *::before, *::after {
+                        text-decoration: none;
+                    }
+
+                        *, *::before, *::after {
+                            box-sizing: content-box !important;
+                        }
+
+                            *, *::before, *::after {
+                                box-sizing: content-box !important;
+                            }
